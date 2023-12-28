@@ -9,4 +9,4 @@ The files shared here are mainly to log my progress and to assist fellow DIYers.
 
 -Mechanical Resources: files for each custom fabricated item.
 
--Kevins Build Guide: watch my progress, trial & tribulations as I put this thing together.
+-Kevins Build Guide: watch my progress, trials & tribulations as I put this thing together.
