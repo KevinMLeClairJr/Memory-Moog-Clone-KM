@@ -1,6 +1,6 @@
 # Memory Moog Clone - KM
 This is a personal document archive for recreating &amp; building the Luis Marka Memory Moog clone.
-The files shared here are mainly to assist fellow DIYers in building this monster.
+The files shared here are mainly to log my progress and to assist fellow DIYers.
 
 # This repository contains the following folders as described
 -Interactive Build Guides: a handy guide for PCB component placement.
