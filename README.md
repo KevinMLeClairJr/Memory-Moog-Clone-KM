@@ -1,4 +1,4 @@
-# Memory Moog Clone - KM
+# Memory Moog Clone
 This is a personal document archive for recreating &amp; building the Luis Marka Memory Moog clone.
 The files shared here are mainly to log my progress and to assist fellow DIYers.
 
